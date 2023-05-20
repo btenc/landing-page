@@ -1,0 +1,74 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    flex-direction: column;
+    font-size: 24px;
+
+}
+
+.blue{
+    background-color: #1F2937;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.header-logo{
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+ul{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+}
+
+a, .body-subtext{
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.body-title{
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.body-top{
+    padding-top: 50px;
+    padding-bottom: 90px;
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body-top-left{
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin-right: 50px;
+}
+
+.sign-up-body{
+    margin-top: 10px;
+    padding: 5px 10px;
+    color: #F9FAF8;
+    width: 85px;
+    background-color: #3882F6;
+}
+
+.body-top-right{
+    color: #F9FAF8;;
+    font-size: 20px;
+    background-color: gray;
+    padding: 90px 100px;
+}
