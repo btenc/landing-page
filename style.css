@@ -62,6 +62,7 @@ a, .body-subtext,.foot-sub{
     padding: 8px 10px;
     color: #F9FAF8;
     width: 85px;
+    font-weight: 700;
     background-color: #3882F6;
     border: 2px solid #F9FAF8;
 }
