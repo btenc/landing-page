@@ -1,3 +1,4 @@
  # Landing Page
- Created for The Odin Project
+ A website landing page. Created for The Odin Project.
+
  Live: https://btenc.github.io/landing-page/
